@@ -78,15 +78,15 @@ var actions = [
     output() {
       let a = '';
       a +=
-        "Copyright © 1919-810 <d href='https://186526.xyz' color='yellow'>186526</d>\n";
+        "Copyright © ? <d href='https://blog.bleasky.cf' color='yellow'>bleasky</d>\n";
       a += "Hosted:<d href='https://vercel.com' color='yellow'>'Vercel'</d>\n";
       a += `CDN Provider:\n    ["<d href='https://cloudflare.com' color='yellow'>Cloudflare</d>","<d href='https://vercel.com' color='yellow'>Vercel</d>"]\n`;
       a +=
         "Build with <d href='https://github.com/zhw2590582/term-web' color='yellow'>term-web</d> & <d href='https://snowpack.dev' color='yellow'>snowpack</d> & bug 😥\n";
       a +=
-        "OpenSource with MIT Licence at <d href='https://github.com/186526/startpage_me'>186526/startpage_me</d>\n";
+        "OpenSource with MIT Licence at <d href='https://github.com/poesty/startpage_me'>poesty/startpage_me</d>\n";
       a +=
-        "本网站由 <d href='https://console.upyun.com/register/?invite=S1_tWzl7P' color='yellow'> 又拍云 </d> 提供CDN/云存储支持";
+        "怪东西";
       return a;
     },
   },
