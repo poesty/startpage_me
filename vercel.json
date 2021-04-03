@@ -22,28 +22,28 @@
             "src": "/goto/github",
             "status": 302,
             "headers": {
-                "Location": "https://github.com/186526"
+                "Location": "https://github.com/poesty"
             }
         },
         {
             "src": "/goto/telegram",
             "status": 302,
             "headers": {
-                "Location": "https://t.me/real186526"
+                "Location": "https://t.me/bleasky"
             }
         },
         {
             "src": "/goto/blog",
             "status": 302,
             "headers": {
-                "Location": "https://blogging.186526.xyz"
+                "Location": "https://blog.bleasky.cf"
             }
         },
         {
             "src": "/goto/email",
             "status": 302,
             "headers": {
-                "Location": "mailto:i@186526.xyz"
+                "Location": "mailto:poi@outlook.lv"
             }
         }
     ]
