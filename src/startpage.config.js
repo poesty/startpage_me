@@ -1,8 +1,8 @@
 let config = {
   terminal: {
     title: `Terminal at bleasky.cf`,
-    user: 'i',
-    hostname: '186526.xyz',
+    user: 'poesty',
+    hostname: 'bleasky.cf',
     welcome: 'Welcome to <d color="#00f501">iam.bleasky.cf</d> terminal',
     actions: [],
   },
