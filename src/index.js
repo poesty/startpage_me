@@ -131,7 +131,7 @@ window.onload = () => {
   if (config.ga.enabled) {
     let a = document.createElement('script');
     a.async = true;
-    a.src = 'https://www.googletagmanager.com/gtag/js?id=G-PVVC00CJ26';
+    a.src = 'https://www.googletagmanager.com/gtag/js?id=G-FPT2S84GL0';
     $('head').appendChild(a);
     window.dataLayer = window.dataLayer || [];
     function gtag() {
