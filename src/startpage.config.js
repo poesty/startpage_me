@@ -55,7 +55,7 @@ let config = {
   ],
   ga: {
     enabled: true,
-    id: 'G-PVVC00CJ26',
+    id: 'G-FPT2S84GL0',
   },
   pwa: {
     enabled: true,
@@ -90,7 +90,7 @@ config.neofetch = (async (a) => {
   return b;
 })(config.neofetch);
 config.ga.enabled = ((a) => {
-  if (a === 'G-PVVC00CJ26' && window.location.host == '186526.xyz') {
+  if (a === 'G-FPT2S84GL0' && window.location.host == 'iam.bleasky.cf') {
     return true;
   } else if (window.location.host.search('localhost') != -1) {
     return false;
